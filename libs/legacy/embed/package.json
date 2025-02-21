@@ -19,7 +19,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
     "react-use": "^17.4.0",
-    "superagentai-js": "^0.0.51"
+    "superagentai-js": "^0.2.40"
   },
   "devDependencies": {
     "@babel/core": "^7.22.10",
